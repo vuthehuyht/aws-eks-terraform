@@ -1,0 +1,4 @@
+- Tạo role cho eks cluster, node group
+- Tạo vpc
+- Tạo EKS cluster với role trên
+- Tạo node group với role trên
